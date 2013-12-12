@@ -1,0 +1,13 @@
+<database>
+   <db>
+      <person>
+         <firstName></firstName>
+         <lastName></lastName>
+         <address></address>
+         <city></city>
+         <province></province>
+         <zip></zip>
+         <contact></contact>
+      </person>
+   </db>
+</database>
